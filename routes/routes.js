@@ -26,7 +26,7 @@ module.exports = function(app) {
 
   // scrape
   app.get("/scrape", function(req, res) {
-    axios.get("https://medium.com/topic/creativity").then(function(response) {
+    axios.get("https://medium.com/topic/technology").then(function(response) {
       // load response to cheerio
       var $ = cheerio.load(response.data);
 
