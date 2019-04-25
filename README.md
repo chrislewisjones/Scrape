@@ -5,4 +5,4 @@ An application that scrapes technology related articles from medium.com.
 The user can scrape for articles, save an article to saved articles, once saved can add a note and view the note later.
 The user can also clear all saved articles.
 
-![My image](https://github.com/chrislewisjones/liri/Scrape/public/assets/img/mediumscrape.gif)
+![My image](https://github.com/chrislewisjones/Scrape/public/assets/img/mediumscrape.gif)
